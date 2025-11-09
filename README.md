@@ -11,7 +11,7 @@ I am not comfortable wearing eyeglasses always or most of the time to deal with 
 children who are 10 years and below who use smart devices alot. I don't want their
 reading habits to be distorted by long exposure to smart screen.
 
-I am unable to manually select what screen display protects my vision by accurately displaying text fonts, color temperature , and screen brightness at different moments.
+I am unable to manually select what screen display protects my vision by accurately displaying text fonts, color temperature and screen brightness at different moments.
 
 ***How does Smart vision care help?***
 
@@ -19,8 +19,8 @@ Smart vision care is an inbuilt software application that conducts eye tests and
 coordination and displays screen accordingly, from the eye test results and monitoring users' eye coordination.
 Screen display is accurate, therefore, user does not need any manual settings that may not accurately protect his(her) vision. 
 
-Inspite of how much time I spend using the smart screen, I am not afraid of vision problems , even when 
-without wearing eyeglasses.
+Inspite of how much time I spend using the smart screen, I am not afraid of vision problems , even
+without wearing blue ray protective eyeglasses.
 
 Perfect for my children!
 
