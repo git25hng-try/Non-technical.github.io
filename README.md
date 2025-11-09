@@ -2,7 +2,7 @@
 
 **Smart screen accurate user vision protective application**
 
-*The problem*
+***The problem***
 
 As a smart screen user, who spends long hours using smart devices affects my vision, especially over a
 long time. I could have blurry vision, eaisly lose concentration, increased eye strain and have sleep distortion.
@@ -13,7 +13,7 @@ reading habits to be distorted by long exposure to smart screen.
 
 I am unable to manually select what screen display protects my vision by accurately displaying text fonts, color temperature , and screen brightness at different moments.
 
-*How does Smart vision care help?*
+***How does Smart vision care help?***
 
 Smart vision care is an inbuilt software application that conducts eye tests and uses eye sensors to monitor users' eye
 coordination and displays screen accordingly, from the eye test results and monitoring users' eye coordination.
@@ -24,7 +24,7 @@ without wearing eyeglasses.
 
 Perfect for my children!
 
-*Who's Smart vision care for?*
+***Who's Smart vision care for?***
 
 As a smart screen user, you don't need to bother wearing eyeglasses each time you want to use your smart screen, Smart vision care protects your vision 💯.
 
