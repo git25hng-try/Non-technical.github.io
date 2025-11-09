@@ -7,7 +7,7 @@
 As a smart screen user, who spends long hours using smart devices affects my vision, especially over a
 long time. I could have blurry vision, eaisly lose concentration, increased eye strain and have sleep distortion.
 
-I am not comfortable wearing eyeglasses to have to deal with blue rays at these times, also for my
+I am not comfortable wearing eyeglasses always or most of the time to deal with blue rays at these times, also for my
 children who are 10 years and below who use smart devices alot. I don't want their
 reading habits to be distorted by long exposure to smart screen.
 
