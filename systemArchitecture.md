@@ -41,4 +41,9 @@ COULD HAVE
 |Request for user_id|API|Get DEVICE_ID|Query|Developers 'About Device'|Unique user_id|
 |Request victual eye test|API|Get FONT SIZES-different alphanumeric, alphabets, and numbers for users to identify|Query|Device keyboard and language settings|Users' accurate font size|
 |Request Cambridge color eye test|API|Get COLORS and COLOR NAMES|Query|Color Palettes and Schemes, Color Pickers and Eyedroppers|Users' accurate screen display resolution|
+|Request Spectrophotometer eye test|API|Get EYE SENSOR-to monitor rays and eye coordination|Query|User permission.EYE_TRACKING|EYE_RAY sensitivity|
+|Select book mode|Server|Get BOOK COLORS - without blue rays||
+|Request screen display resolution|Server|Get EYE_TEST_RESULTS|App EYE_TEST Database store|
 
+***Technical Feasibility***
+Smart vision care is technically feasible, but difficulties of integrating EYE_TEST may exist.
