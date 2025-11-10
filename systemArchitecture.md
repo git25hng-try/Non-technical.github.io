@@ -21,6 +21,7 @@ SHOULD HAVE
 * A self-selected user brightness display
 * A user option range for book mode
 * A Device Detector
+* Medical user eye test input
 
 COULD HAVE
 * A location color temperature
@@ -32,10 +33,12 @@ COULD HAVE
 - Book mode selection module
 - Screen display resolution modules
 
-*Technical Communication*
+***Technical Communication***
 
-|Frontend|Channel|Backend|Channel|Database store|
-|-------|--------|-------|-------|--------|
+|Frontend|Channel|Backend|Channel|Database request|Database store|
+|-------|--------|-------|-------|--------|--------|
 |Request for username|Server|Get CHARACTERS|Query|Device Keyboard and language settings|
-|Request for user_id|API|Get DEVICE_ID|Query|Developers 'About Device'|
-|Request 
+|Request for user_id|API|Get DEVICE_ID|Query|Developers 'About Device'|Unique user_id|
+|Request victual eye test|API|Get FONT SIZES-different alphanumeric, alphabets, and numbers for users to identify|Query|Device keyboard and language settings|Users' accurate font size|
+|Request Cambridge color eye test|API|Get COLORS and COLOR NAMES|Query|Color Palettes and Schemes, Color Pickers and Eyedroppers|Users' accurate screen display resolution|
+
