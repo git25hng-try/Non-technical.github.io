@@ -8,9 +8,9 @@
 ***Features*** (MOSCOW)
 
 MUST HAVE 
-* Must have a spectrophotometer eye sensor
-* Must have a book mode 
-* Must have an accurate victual eye test detector
+* Must have a spectrophotometer eye sensor - This monitors and controls automatically users' vision to adjust screen display to sensitivity to blue rays.
+* Must have a book mode - A no blue ray mode.
+* Must have an accurate victual eye test detector - This detects the accurate font for users across all applications.
 * Must have an accurate Cambridge color eye test detector
 * Must have multiple users' average vision calculator for screen display
   from eye test results of intended users.
