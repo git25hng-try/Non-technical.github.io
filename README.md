@@ -25,7 +25,7 @@ Perfect for my children!
 
 ***Who's Smart vision care for?***
 
-As a smart screen user, you don't need to bother wearing eyeglasses each time you want to use your smart screen, Smart vision care protects your vision 💯.
+As a smart screen user, you don't need to bother wearing protective eyeglasses each time you want to use your smart screen, Smart vision care protects your vision 💯.
 
 Highly recommended for little children, who are 10years old and below because 'book mode' can be selected. Therefore,
 using smart devices over a long time does not make the pages of a book unfriendly to them.
