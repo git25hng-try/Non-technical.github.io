@@ -45,7 +45,7 @@ COULD HAVE
 |Request Cambridge color eye test|API|Get/{COLORS}/{COLOR NAMES}|Query|Color Palettes and Schemes, Color Pickers and Eyedroppers|Users' accurate screen display resolution|
 |Request Spectrophotometer eye test|API|Get/EYE SENSOR-to monitor rays and eye coordination|Query|User permission.EYE_TRACKING|EYE_RAY sensitivity|
 |Select book mode|Server|Get/BOOK COLORS - without blue rays||
-|Request screen display resolution|Server|Get EYE_TEST_RESULTS|Query|App EYE_TEST Database store|User_ID and screen display|
+|Request screen display resolution|Server|Get EYE_TEST_RESULTS|Query|App EYE_TEST Database store|User_ID and screen display resolution|
 
 ***Technical Feasibility***
 Smart vision care is technically feasible, but difficulties of integrating EYE_TEST parameters may exist.
