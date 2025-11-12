@@ -1,0 +1,5 @@
+##Technical Communication 2
+
+|Frontend|Backend|Error handling|Acceptance criteria|Design|Acceptance Criteria|
+|--------|---------|-------------|-------------------|-------|------------------|
+|Request username|GET/CHARACTERS- retrieves numeric, alphabetical and special characters|1)If username >8, frontend highlights topmost in-line validation criteria under the username bar 2) If username excludes a criteria, the in-line validation drop down list criteria excluded is highlighted red|1) Frontend must display in-line validation drop down list under the username bar with username content criteria typed in red, when criteria it is met, in-line validation changes to green 2)Username must be ≤8 3) Username must have ≥1 special character, ≥1 numeric character ≥1 upper case character ≥1 lower case character|Onboarding page has an attractive blend of ≤3 colours, preferrably, blue green and white|1) Colors should have independent color settings 2) Colors should be mild in temperature 3) Colours should overlap midway of the screen|
